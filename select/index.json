@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブルーシフト",
+  "base_artist": "Tele",
+  "createdAt": "2025-12-10T19:05:49.216976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーシフト",
+      "artist": "Tele",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーシフト_Tele.txt"
+    }
+  ]
+}
